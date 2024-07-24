@@ -1,3 +1,6 @@
+Take our 2024 user survey! Help us improve scikit-learn for you! :ref:`Take survey
+<Take-survey>`
+
 Getting Started
 ===============
 
